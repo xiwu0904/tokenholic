@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Tokenholic",
+    "description": "AI-powered Sales Enablement Platform"
+  },
+  "nav": {
+    "home": "Home",
+    "tokenMap": "Token Battle Map",
+    "solution": "Solution Recommender",
+    "rolePlay": "Role-Play Simulator",
+    "settings": "Settings"
+  },
+  "home": {
+    "welcome": "Welcome to Tokenholic",
+    "subtitle": "AI-powered sales enablement platform for Alibaba Cloud",
+    "features": {
+      "tokenMap": {
+        "title": "Token Battle Map",
+        "description": "Analyze customer AI/LLM usage patterns and estimate token consumption"
+      },
+      "solution": {
+        "title": "Solution Recommender",
+        "description": "Get intelligent solution recommendations with RAG-based knowledge retrieval"
+      },
+      "rolePlay": {
+        "title": "Role-Play Simulator",
+        "description": "Practice sales conversations with AI-powered customer personas"
+      }
+    }
+  },
+  "tokenMap": {
+    "title": "Token Battle Map",
+    "generate": "Generate Map",
+    "companyName": "Company Name",
+    "companyPlaceholder": "Enter company name...",
+    "generating": "Generating...",
+    "export": "Export",
+    "exportPNG": "Export as PNG",
+    "exportPDF": "Export as PDF",
+    "exportJSON": "Export as JSON"
+  },
+  "solution": {
+    "title": "Solution Recommender",
+    "inputPlaceholder": "Describe your requirements...",
+    "submit": "Get Recommendation",
+    "refine": "Refine",
+    "history": "Version History"
+  },
+  "rolePlay": {
+    "title": "Role-Play Simulator",
+    "selectScenario": "Select a Scenario",
+    "scenarios": {
+      "discovery": "Customer Discovery",
+      "technical": "Technical Deep-Dive",
+      "objection": "Objection Handling",
+      "executive": "Executive Pitch"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "startSession": "Start Session",
+    "endSession": "End Session",
+    "score": "Score"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}

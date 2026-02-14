@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Tokenholic",
+    "description": "AI驱动的销售赋能平台"
+  },
+  "nav": {
+    "home": "首页",
+    "tokenMap": "Token分布图",
+    "solution": "方案推荐",
+    "rolePlay": "角色扮演模拟",
+    "settings": "设置"
+  },
+  "home": {
+    "welcome": "欢迎使用 Tokenholic",
+    "subtitle": "阿里云AI驱动的销售赋能平台",
+    "features": {
+      "tokenMap": {
+        "title": "Token分布图",
+        "description": "分析客户AI/LLM使用模式，估算Token消耗"
+      },
+      "solution": {
+        "title": "方案推荐",
+        "description": "基于RAG知识检索的智能方案推荐"
+      },
+      "rolePlay": {
+        "title": "角色扮演模拟",
+        "description": "与AI客户角色进行销售对话练习"
+      }
+    }
+  },
+  "tokenMap": {
+    "title": "Token分布图",
+    "generate": "生成分布图",
+    "companyName": "公司名称",
+    "companyPlaceholder": "请输入公司名称...",
+    "generating": "生成中...",
+    "export": "导出",
+    "exportPNG": "导出为PNG",
+    "exportPDF": "导出为PDF",
+    "exportJSON": "导出为JSON"
+  },
+  "solution": {
+    "title": "方案推荐",
+    "inputPlaceholder": "描述您的需求...",
+    "submit": "获取推荐",
+    "refine": "优化",
+    "history": "版本历史"
+  },
+  "rolePlay": {
+    "title": "角色扮演模拟",
+    "selectScenario": "选择场景",
+    "scenarios": {
+      "discovery": "客户发现",
+      "technical": "技术深入",
+      "objection": "异议处理",
+      "executive": "高管演示"
+    },
+    "difficulty": {
+      "easy": "简单",
+      "medium": "中等",
+      "hard": "困难"
+    },
+    "startSession": "开始会话",
+    "endSession": "结束会话",
+    "score": "得分"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭"
+  }
+}

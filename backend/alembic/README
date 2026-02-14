@@ -1,0 +1,21 @@
+# Alembic migrations directory
+
+This directory contains Alembic migration scripts.
+
+## Creating a migration
+
+```bash
+alembic revision --autogenerate -m "description of changes"
+```
+
+## Running migrations
+
+```bash
+alembic upgrade head
+```
+
+## Rolling back
+
+```bash
+alembic downgrade -1  # Roll back one migration
+```
